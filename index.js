@@ -34,7 +34,7 @@ $(document).ready(function(){
     })
 
     $('.long-sleeve').click(function(){
-        document.location.href = '/product-details.html'
+        window.location.href = '/ecommerce-website/product-details.html'
     })
 
     $(".menu-btn").click(function(){
